@@ -92,7 +92,7 @@ public class GumballMachineController {
         model.addAttribute( "session", session_id ) ;
         model.addAttribute( "message", message ) ;
         model.addAttribute( "server",  host_name + "/" + server_ip ) ;
-
+        System.out.println("A is for apples");
 
         if (errors.hasErrors()) {
             return "gumball";
