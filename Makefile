@@ -126,3 +126,6 @@ ingress-apply:
 
 ingress-ip:
 	kubectl get ingress spring-gumball-ingress
+
+mysql:
+	mysql -uroot -p
