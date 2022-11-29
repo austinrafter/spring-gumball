@@ -8,7 +8,7 @@
 #Screenshots
 
 ###Continuous Integration Successful build
-![This is an image](/Users/austinrafter/VSProjects/spring-gumball/Images/lab-10 continuous integration successful build.png)
+![This is an image](/Images/lab-10 continuous integration successful build.png)
 
 ###Service Account roles
 ![This is an image](/Users/austinrafter/VSProjects/spring-gumball/Images/lab-10 gke service account roles.png)
